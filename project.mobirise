@@ -2163,10 +2163,7 @@
               }
             },
             "P": {
-              "text-align": "center"
-            },
-            "H5": {
-              "text-align": "center"
+              "text-align": "left"
             }
           },
           "_name": "footer1",
