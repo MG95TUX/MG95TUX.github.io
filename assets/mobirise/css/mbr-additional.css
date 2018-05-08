@@ -3193,7 +3193,7 @@ body {
 .cid-qRtg1Phhdj {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/mbr-790x1080.jpg");
+  background-image: url("../../../assets/images/skytech-siege-ryzen-7-1700x-gaming-pc-desktop-3-1500x1229.jpg");
 }
 @media (min-width: 992px) {
   .cid-qRtg1Phhdj .mbr-figure {
@@ -3212,10 +3212,10 @@ body {
 }
 .cid-qRtg1Phhdj .mbr-text,
 .cid-qRtg1Phhdj .mbr-section-btn {
-  color: #917304;
+  color: #ffffff;
 }
 .cid-qRtg1Phhdj H1 {
-  color: #917304;
+  color: #ffffff;
 }
 .cid-qRtuZgmt17 {
   padding-top: 90px;
@@ -3236,6 +3236,10 @@ body {
   .cid-qRtuZgmt17 .mbr-text {
     text-align: center;
   }
+}
+.cid-qRtuZgmt17 .mbr-text,
+.cid-qRtuZgmt17 .mbr-section-btn {
+  text-align: left;
 }
 .cid-qRtBeHqTIz {
   padding-top: 90px;
