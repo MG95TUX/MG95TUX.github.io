@@ -2597,6 +2597,68 @@ body {
   padding-bottom: 90px;
   background-image: url("../../../assets/images/mbr-9-1620x1080.jpg");
 }
+.cid-qRtRsUWGmF {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-qRtRsUWGmF .mbr-slider .carousel-control {
+  background: #1b1b1b;
+}
+.cid-qRtRsUWGmF .mbr-slider .carousel-control-prev {
+  left: 0;
+  margin-left: 2.5rem;
+}
+.cid-qRtRsUWGmF .mbr-slider .carousel-control-next {
+  right: 0;
+  margin-right: 2.5rem;
+}
+.cid-qRtRsUWGmF .mbr-slider .modal-body .close {
+  background: #1b1b1b;
+}
+.cid-qRtRsUWGmF .mbr-gallery-item > div::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: #554346;
+  background: linear-gradient(to left, #554346, #45505b) !important;
+  opacity: 0;
+  -webkit-transition: 0.2s opacity ease-in-out;
+  transition: 0.2s opacity ease-in-out;
+}
+.cid-qRtRsUWGmF .mbr-gallery-item > div:hover .mbr-gallery-title::before {
+  background: transparent !important;
+}
+.cid-qRtRsUWGmF .mbr-gallery-item > div:hover:before {
+  opacity: 0.7 !important;
+}
+.cid-qRtRsUWGmF .mbr-gallery-title {
+  font-size: .9em;
+  position: absolute;
+  display: block;
+  width: 100%;
+  bottom: 0;
+  padding: 1rem;
+  color: #fff;
+  z-index: 2;
+}
+.cid-qRtRsUWGmF .mbr-gallery-title:before {
+  content: " ";
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  position: absolute;
+  background: #554346 !important;
+  background: linear-gradient(to left, #554346, #45505b) !important;
+  opacity: 0.7;
+  -webkit-transition: 0.2s background ease-in-out;
+  transition: 0.2s background ease-in-out;
+}
 .cid-qGxwKbojGp {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -3123,10 +3185,15 @@ body {
 .cid-qGxwElnwvS P {
   text-align: left;
 }
+.cid-qRtvzLuq9J {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-image: url("../../../assets/images/mbr-1-1620x1080.jpg");
+}
 .cid-qRtg1Phhdj {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/background4.jpg");
+  background-image: url("../../../assets/images/mbr-790x1080.jpg");
 }
 @media (min-width: 992px) {
   .cid-qRtg1Phhdj .mbr-figure {
@@ -3143,8 +3210,109 @@ body {
     text-align: center;
   }
 }
+.cid-qRtg1Phhdj .mbr-text,
+.cid-qRtg1Phhdj .mbr-section-btn {
+  color: #917304;
+}
+.cid-qRtg1Phhdj H1 {
+  color: #917304;
+}
+.cid-qRtuZgmt17 {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/quad-density-blue-pc-case-light-kit-twin-strip-527-p-1-2000x1500.jpg");
+}
+@media (min-width: 992px) {
+  .cid-qRtuZgmt17 .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-qRtuZgmt17 .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-qRtuZgmt17 .mbr-text {
+    text-align: center;
+  }
+}
+.cid-qRtBeHqTIz {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/redryzen17-01-lrg-500x333.jpg");
+}
+@media (min-width: 992px) {
+  .cid-qRtBeHqTIz .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-qRtBeHqTIz .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-qRtBeHqTIz .mbr-text {
+    text-align: center;
+  }
+}
+.cid-qRtBeHqTIz .mbr-text,
+.cid-qRtBeHqTIz .mbr-section-btn {
+  color: #917304;
+}
+.cid-qRtBeHqTIz H1 {
+  color: #917304;
+}
+.cid-qRtBV6DOUi {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/mbr-1-720x1080.jpg");
+}
+@media (min-width: 992px) {
+  .cid-qRtBV6DOUi .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-qRtBV6DOUi .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-qRtBV6DOUi .mbr-text {
+    text-align: center;
+  }
+}
+.cid-qRtD8pN4eo {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/processore-cpu-pc-fisso-700x406.jpg");
+}
+@media (min-width: 992px) {
+  .cid-qRtD8pN4eo .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-qRtD8pN4eo .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-qRtD8pN4eo .mbr-text {
+    text-align: center;
+  }
+}
+.cid-qRtD8pN4eo .mbr-text,
+.cid-qRtD8pN4eo .mbr-section-btn {
+  color: #917304;
+}
+.cid-qRtD8pN4eo H1 {
+  color: #917304;
+}
 .cid-qGvfWL94e8 {
-  background-image: url("../../../assets/images/mbr-790x1080.jpg");
+  background-image: url("../../../assets/images/mbr-1401x1080.jpg");
 }
 .cid-qGvfWL94e8 .form-container {
   transition: all .2s;
@@ -4998,7 +5166,75 @@ body {
 .cid-qRtjEEhvhC {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/mbr-9-1620x1080.jpg");
+  background-image: url("../../../assets/images/mbr-7-1620x1080.jpg");
+}
+.cid-qRtjEEhvhC P {
+  color: #000000;
+}
+.cid-qRtjEEhvhC H1 {
+  color: #000000;
+}
+.cid-qRtTWuMzRA {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-qRtTWuMzRA .mbr-slider .carousel-control {
+  background: #1b1b1b;
+}
+.cid-qRtTWuMzRA .mbr-slider .carousel-control-prev {
+  left: 0;
+  margin-left: 2.5rem;
+}
+.cid-qRtTWuMzRA .mbr-slider .carousel-control-next {
+  right: 0;
+  margin-right: 2.5rem;
+}
+.cid-qRtTWuMzRA .mbr-slider .modal-body .close {
+  background: #1b1b1b;
+}
+.cid-qRtTWuMzRA .mbr-gallery-item > div::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: #554346;
+  background: linear-gradient(to left, #554346, #45505b) !important;
+  opacity: 0;
+  -webkit-transition: 0.2s opacity ease-in-out;
+  transition: 0.2s opacity ease-in-out;
+}
+.cid-qRtTWuMzRA .mbr-gallery-item > div:hover .mbr-gallery-title::before {
+  background: transparent !important;
+}
+.cid-qRtTWuMzRA .mbr-gallery-item > div:hover:before {
+  opacity: 0.7 !important;
+}
+.cid-qRtTWuMzRA .mbr-gallery-title {
+  font-size: .9em;
+  position: absolute;
+  display: block;
+  width: 100%;
+  bottom: 0;
+  padding: 1rem;
+  color: #fff;
+  z-index: 2;
+}
+.cid-qRtTWuMzRA .mbr-gallery-title:before {
+  content: " ";
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  position: absolute;
+  background: #554346 !important;
+  background: linear-gradient(to left, #554346, #45505b) !important;
+  opacity: 0.7;
+  -webkit-transition: 0.2s background ease-in-out;
+  transition: 0.2s background ease-in-out;
 }
 .cid-qRtjEFsRGs {
   padding-top: 60px;
