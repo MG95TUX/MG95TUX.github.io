@@ -1160,33 +1160,6 @@ section.lazy-placeholder:after {
 .cid-sOnnEZ4jqs .social-list a:focus {
   text-decoration: none;
 }
-.cid-sOnnFgRrPL {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #767676;
-}
-.cid-sOnnFgRrPL .title {
-  margin-bottom: 2rem;
-}
-.cid-sOnnFgRrPL .mbr-section-subtitle {
-  color: #ffffff;
-}
-.cid-sOnnFgRrPL a:not([href]):not([tabindex]) {
-  color: #fff;
-  border-radius: 3px;
-}
-.cid-sOnnFgRrPL a.btn-white:not([href]):not([tabindex]) {
-  color: #333;
-}
-.cid-sOnnFgRrPL .multi-horizontal {
-  flex-grow: 1;
-  -webkit-flex-grow: 1;
-  max-width: 100%;
-}
-.cid-sOnnFgRrPL .input-group-btn {
-  display: block;
-  text-align: center;
-}
 .cid-qGv5MVCDH5 {
   padding-top: 60px;
   padding-bottom: 60px;
