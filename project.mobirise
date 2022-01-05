@@ -55,9 +55,7 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "mbrsiteDomain": "8sh3iv62rf",
-    "gdpr": false,
-    "publishType": "local",
-    "publishPath": "file:///C:/Users/guerr/Downloads/antani"
+    "gdpr": false
   },
   "pages": {
     "index.html": {
